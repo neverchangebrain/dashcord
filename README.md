@@ -72,6 +72,13 @@ Next, you can link your Turborepo to your Remote Cache by running the following 
 npx turbo link
 ```
 
+## Deploy on Vercel
+
+The easiest way to deploy your Turborepo is to use [Vercel](https://vercel.com/).  
+You can import your repository into Vercel and it will automatically detect all Next.js apps and configure deployments for you.
+
+For more information, see the [Vercel Turborepo documentation](https://vercel.com/docs/concepts/projects/monorepos/turborepo).
+
 ## Useful Links
 
 Learn more about the power of Turborepo:
